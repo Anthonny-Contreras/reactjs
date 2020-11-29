@@ -102,6 +102,10 @@ body{
   color: #37c6ee;
 }
 
+.active{
+  border-bottom: 2px solid #3cb2d3;
+}
+
 /* slider css */
 #slider{
   width: 100%;
